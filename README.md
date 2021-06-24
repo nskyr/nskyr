@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nskyr
 - 🌱 I’m currently learning .Net Core,SQL etc.
-- <!---💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me enesakyar@hotmail.com
 
 <!---
